@@ -6,8 +6,9 @@
   🔭 I’m a PhD candidate in Bioinformatics program at Iowa State University
 </p>
 
-[![publication](https://img.shields.io/badge/-Publications-informational)](https://scholar.google.com/citations?user=yat-ghwAAAAJ&hl=en)
-
+[![publication](https://img.shields.io/badge/-publications-red)](https://scholar.google.com/citations?user=yat-ghwAAAAJ&hl=en)
+[![twitter](https://img.shields.io/badge/-twitter-informational)](https://twitter.com/_urminder)
+[![twitter](https://img.shields.io/badge/-random-green)](https://www.random.org/integers/?num=1&min=1&max=100&col=1&base=10&format=html&rnd=new)
 
 
 <!--
