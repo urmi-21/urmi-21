@@ -1,10 +1,21 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://media1.tenor.com/images/a388b52cb0b98b71066ce08b9fcc21c5/tenor.gif" width="120px">
+  <br><br>
+  🔭 I’m a PhD candidate in Bioinformatics program at Iowa State University
+
+
+
+</p>
+
+
+
 <!--
 **urmi-21/urmi-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://media1.tenor.com/images/a388b52cb0b98b71066ce08b9fcc21c5/tenor.gif">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
