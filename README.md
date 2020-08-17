@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/cc8c802f04e9899e085b3fc9b7037389/tenor.gif" width="220px">
+  <img src="https://media1.tenor.com/images/cc8c802f04e9899e085b3fc9b7037389/tenor.gif" width="0px">
   <br><br>
   🔭 I’m a PhD candidate in Bioinformatics program at Iowa State University
 </p>
