@@ -8,7 +8,7 @@
 
 [![publication](https://img.shields.io/badge/-publications-red)](https://scholar.google.com/citations?user=yat-ghwAAAAJ&hl=en)
 [![twitter](https://img.shields.io/badge/-twitter-informational)](https://twitter.com/_urminder)
-
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=urmi-21.visitor-badge)](https://github.com/urmi-21)
 
 <!--
 **urmi-21/urmi-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
