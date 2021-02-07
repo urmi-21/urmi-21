@@ -6,6 +6,7 @@
   🔭 I’m a PhD candidate in Bioinformatics program at Iowa State University
 </p>
 
+[![website](https://img.shields.io/badge/-website-brightgreen)](https://urmi-21.github.io/)
 [![publication](https://img.shields.io/badge/-publications-red)](https://scholar.google.com/citations?user=yat-ghwAAAAJ&hl=en)
 [![twitter](https://img.shields.io/badge/-twitter-informational)](https://twitter.com/_urminder)
 [![views](https://visitor-badge.glitch.me/badge?page_id=urmi-21.visitor-badge)](https://github.com/urmi-21)
