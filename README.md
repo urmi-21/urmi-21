@@ -10,6 +10,13 @@
 [![twitter](https://img.shields.io/badge/-twitter-informational)](https://twitter.com/_urminder)
 [![views](https://visitor-badge.glitch.me/badge?page_id=urmi-21.visitor-badge)](https://github.com/urmi-21)
 
+
+[![cv](https://img.shields.io/badge/Download-CV-orange)](https://github.com/urmi-21/urminder_singh_resume/blob/main/Urminder_CV.pdf)
+[![cv](https://img.shields.io/badge/Download-Resume-green)](https://github.com/urmi-21/urminder_singh_resume/blob/main/Urminder_Resume.pdf)
+[![cv](https://img.shields.io/badge/Download-Dissertation-blue)](https://github.com/urmi-21/urminder_singh_resume/blob/main/Urminder_Singh_PhD_dissertation.pdf)
+
+
+
 <!--
 **urmi-21/urmi-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
