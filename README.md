@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><br>
-  🔭 I’m a PhD candidate in Bioinformatics program at Iowa State University
+  🔭 I’m a Bioinformatics Scientist at Illumina.
 </p>
 
 [![website](https://img.shields.io/badge/-website-brightgreen)](https://urmi-21.github.io/)
