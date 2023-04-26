@@ -8,7 +8,6 @@
 [![website](https://img.shields.io/badge/-website-brightgreen)](https://urmi-21.github.io/)
 [![publication](https://img.shields.io/badge/-publications-red)](https://scholar.google.com/citations?user=yat-ghwAAAAJ&hl=en)
 [![twitter](https://img.shields.io/badge/-twitter-informational)](https://twitter.com/_urminder)
-[![views](https://visitor-badge.glitch.me/badge?page_id=urmi-21.visitor-badge)](https://github.com/urmi-21)
 
 
 [![cv](https://img.shields.io/badge/Download-CV-orange)](https://github.com/urmi-21/urminder_singh_resume/blob/main/Urminder_CV.pdf)
